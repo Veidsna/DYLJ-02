@@ -1,0 +1,4 @@
+vless://ded531f6-8030-47cc-9401-542939a0f172@172.64.133.151:443?type=ws&security=tls&path=%2Fded531f6-8030-47cc-9401-542939a0f172-vless&host=mofeniusvless01.pages.dev&sni=mofeniusvless01.pages.dev&alpn=mofeniusvless01.pages.dev#NEW-Vless
+
+vmess://ws+tls:340494ae-568b-4487-b1a0-1f83bdd0f843-0@172.64.81.163:443/?host=mogeniusvmess01.pages.dev&path=/dhaiwuh&allowInsecure=true&tlsServerName=mogeniusvmess01.pages.dev#new-Vmess
+
